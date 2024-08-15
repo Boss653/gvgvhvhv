@@ -1,8 +1,8 @@
 aiogram==2.23.1
 flask
 requests
-pytelegram_bot
+python-telegram-bot
 user_agent
 datetime
 telebot
-threading
+
