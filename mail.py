@@ -6,7 +6,7 @@ import datetime
 from user_agent import generate_user_agent
 from hh import keep_alive
 keep_alive()
-# Channel  : @Darkxbins | @NB_Luis
+
 user_agent = generate_user_agent()[0]
 id = '6700770040' #Replace This
 tok = '7450316207:AAEpGXQFETF6IZF1ieJ3hJeO5kkIiKiTS50' #Replace This
